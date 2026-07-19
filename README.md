@@ -258,7 +258,13 @@
 
 - **Robust Speech Recognition via Large-Scale Weak Supervision**(2022), Alec Radford et al. [[pdf]](https://cdn.openai.com/papers/whisper.pdf)
 
+- **Paraformer: Fast and Accurate Parallel Transformer for Non-autoregressive End-to-End Speech Recognition**(2022), Zhifu Gao et al. [[pdf]](https://arxiv.org/pdf/2206.08317) [[code]](https://github.com/modelscope/FunASR)
+
 - **On decoder-only architecture for speech-to-text and large language model integration**(2023), Jian Wu et al. [[pdf]](https://arxiv.org/pdf/2307.03917.pdf)
+
+- **FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**(2024), Zhifei Xie et al. [[pdf]](https://arxiv.org/pdf/2407.04051) [[code]](https://github.com/FunAudioLLM/SenseVoice)
+
+- **FunAudio-ASR Technical Report**(2025), Keyu An et al. [[pdf]](https://arxiv.org/pdf/2509.12508) [[code]](https://github.com/FunAudioLLM/Fun-ASR)
 
 
 ### Speaker Verification
